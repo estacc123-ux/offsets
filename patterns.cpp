@@ -1,6 +1,8 @@
 // version-ec412128eba3476e
 // all accurate + checked
 // use them for your own dumper or whatever idc
+// found and created by @2qp0 and @credential_ 
+// depression sucks
 
 namespace Patterns {
     constexpr const char* AttachRobloxExtraSpace = "48 89 5C 24 ? 4C 89 4C 24 ? 55 56 57 41 54 41 55 41 56 41 57 48 83 EC ? 4D 8B F9 4D 8B E8";
