@@ -4,6 +4,8 @@
 // found and created by @2qp0 and @credential_ 
 // depression sucks
 
+// last updated: may 12, 2026
+
 namespace Patterns {
     constexpr const char* AttachRobloxExtraSpace = "48 89 5C 24 ? 4C 89 4C 24 ? 55 56 57 41 54 41 55 41 56 41 57 48 83 EC ? 4D 8B F9 4D 8B E8";
     constexpr const char* print = "4C 8B DC 49 89 53 ? 4D 89 43 ? 4D 89 4B ? 53 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 48 33 C4 48 89 84 24 ? ? ? ? 8B D9";
