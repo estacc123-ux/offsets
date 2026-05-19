@@ -3,6 +3,7 @@
 namespace Strings {
     const uintptr_t FlogDataBank = WindowsRealtimeProtocolEnabled // string use xref
     const uintptr_t Print = Current identity is %d // string use xref
+    const uintptr_t Print = "print identity" // string use xref or make into func
     const uintptr_t KTable = Trying to call method on object of type: `%s` with incorrect arguments. // string use xref
     const uintptr_t LockViolationInstanceCrash =  LockViolationInstanceCrash // string use xref
     const uintptr_t luaH_dummynode = Attempt to migrate WeakObjectRef across VM boundary // string use xref
